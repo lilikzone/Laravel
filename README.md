@@ -1,2 +1,1 @@
-# Laravel
-Sample Laravel Project 
+Jenkins PHP demo
